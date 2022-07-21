@@ -1,0 +1,15 @@
+.tab-item-padding {
+    padding: 5px;
+}
+
+.logo {
+    position: relative;
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    vertical-align: middle;
+    line-height: 60px;
+    font-size: large;
+    font-weight: bold;
+    margin-right: 20px;
+}
