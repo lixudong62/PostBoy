@@ -20,6 +20,10 @@
         <li class="layui-nav-item">
             <a href="javascript:;" data-url="request/request-json.jsp">JSON</a>
         </li>
+
+        <li class="layui-nav-item">
+            <a href="javascript:;" data-url="request/about.jsp">About</a>
+        </li>
     </ul>
 </div>
 <div class="layui-row content">
